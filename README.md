@@ -1,5 +1,5 @@
  
-<h1 align="center">Neptune Multi Tool ðŸ› ï¸ </h1>
+<h1 align="center">Neptune Multi Tool </h1>
 <p align="center">
   <a href="https://github.com/Rdmo1/DisRo-Multi-Tool/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-important">
@@ -27,7 +27,7 @@
   Telegram: t.me/@rdmo12
 
 
-   $10.00 USD | Neptune Key
+   $10.00 USD | Neptune Key / Limited Price Offer
 
 
 🛠️ 𝙄𝙣𝙛𝙤𝙧𝙢𝙖𝙩𝙞𝙤𝙣 
