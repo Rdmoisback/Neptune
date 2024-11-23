@@ -23,7 +23,7 @@
 ```
 💌 𝙎𝙤𝙘𝙞𝙖𝙡
  
-  Discord:  rdmo13
+  Discord:  rdmoisback
   Telegram: t.me/@rdmo12
 
 
@@ -55,7 +55,7 @@ Customer Feedback:
 |-------------------------------------------------|
 This project was created only for good purposes and personal use
 Please be aware that your action has consequences
-Be careful using this tool, I am warning you to use this tool for Education Purpose Only.
+Becareful not to get caught, use this tool for Education Purpose Only.
 
 ## Preview  <img src="https://cdn3.emoji.gg/emojis/1676-cameracat.png" width="30px"/>
 </h1>
