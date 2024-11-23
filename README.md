@@ -60,7 +60,7 @@ Becareful not to get caught, use this tool for Education Purpose Only.
 ## Preview  <img src="https://cdn3.emoji.gg/emojis/1676-cameracat.png" width="30px"/>
 </h1>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1209654808970010766/1213485239888773170/186b06a0-8e27-449e-8b1f-b7b2fffc0612_1.png?ex=65f5a532&is=65e33032&hm=cb2727aab6dfeac024aa1c530e00b08be37a8b79e4f05d088b2de20c116ebc8d&">
+  <img src="https://cdn.discordapp.com/attachments/1265306799842791486/1309778475921707038/IMG_20241123_093309_717.jpg?ex=6742d1c3&is=67418043&hm=e9a8f48aecd4718540a71aa558a44166b3dd72a8cd3766000fe633e3ba1754c5&">
 </p>
 <p align="center">
   
